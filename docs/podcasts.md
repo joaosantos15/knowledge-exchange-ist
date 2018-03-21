@@ -1,7 +1,7 @@
 # Podcasts
 
 |          Name         |            Links           |       About       |
-|:---------------------:|:--------------------------:|:-----------------:|
+|:---------------------:|:--------------------------:|:-----------------|
 | The Knowledge Project | [Spotify][tkp1] <br> [iTunes][tkp2] <br> [CastBox][tkp3] | Knowledge, Thinking, Mental Modals |
 | YCombinator | [CastBox][yc1] | YCombinator is one the largest VC funds, amazing people, amazing ideas |
 | Intelligence Squared  | [CastBox][ic1] | Debated on hot topics. Thoughtful argumentation. |

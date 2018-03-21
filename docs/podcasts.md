@@ -6,7 +6,7 @@
 | YCombinator | [CastBox][yc1] | YCombinator is one the largest VC funds, amazing people, amazing ideas |
 | Intelligence Squared  | [CastBox][ic1] | Debated on hot topics. Thoughtful argumentation. |
 | Medicine Today on Digital Health | [SoundCloud][mtdh1] | Digital health | 
-| 45 Graus | [Website][451] | Tech |
+| 45 Graus | [Website][451] | History, Politics, Philosophy, Education and so on. |
 
 [tkp1]: https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM
 [tkp2]: https://itunes.apple.com/us/podcast/the-knowledge-project-a-farnam-street-podcast/id990149481?mt=2

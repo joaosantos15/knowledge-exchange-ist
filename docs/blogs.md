@@ -5,7 +5,7 @@
 | FarnamStreet | [website][fs1] | Posts about thinking, great book recomendations and analyses, really cooool!!! ⚡️ |
 | Wait...But Why? | [website][wbw1] | This guy learns about amazing tech topics and then writes extremely funny and detailed explanations of the topics. Elon Musk invited him to interview him. |
 | Digital Minds | [website](https://digitalminds2016.wordpress.com) | A blog about computers, evolution, complexity, cells, brains, and minds. | 
-| Gatesnotes | [website](https://www.gatesnotes.com/Books) | Bill Gates book reviews! | 
+| Gatesnotes | [website](https://www.gatesnotes.com/Books) | Bill Gates' book reviews! | 
 
 
 ## Random blogposts from other places

@@ -22,6 +22,8 @@
 **[ How Great Entrepreneurs Think](https://www.inc.com/magazine/20110201/how-great-entrepreneurs-think.html)**
 > Sarasvathy concluded that master entrepreneurs rely on what she calls effectual reasoning. Brilliant improvisers, the entrepreneurs don't start out with concrete goals. Instead, they constantly assess how to use their personal strengths and whatever resources they have at hand to develop goals on the fly, while creatively reacting to contingencies.
 
+**[ Why You Should Stop Reading News](https://www.fs.blog/2013/12/stop-reading-news/)**
+> The point is, most of what you read online today is pointless. It's not important to your life. It's not going to help you make better decisions. It's not going to help you understand the world. It's not going to help you develop deep and meaningful connections with the people around you. The only thing it's really doing is altering your mood and perhaps your behavior.
 
 [fs1]: https://www.farnamstreetblog.com 
 [wbw1]: https://waitbutwhy.com
